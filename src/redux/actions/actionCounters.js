@@ -16,6 +16,8 @@ export const increasebytwo_Counter=() => ({
     payload:2
 });
 
+
+
 export const decreasebytwo_Counter=() => ({
     type:actionTypes.DECREASEBYTWO_Counter,
     payload:2

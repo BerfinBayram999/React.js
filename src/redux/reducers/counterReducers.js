@@ -25,3 +25,6 @@ const counterReducers = (state=0,action)=> {
 }
 
 export default counterReducers;
+
+
+//Reducer statei değiştirir

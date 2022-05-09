@@ -7,3 +7,6 @@ const reducers = combineReducers({
 });
 
 export default reducers;
+
+
+//Tüm Reducerları kombine ettiğimiz kısım ve export ediyoruz
